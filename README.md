@@ -31,3 +31,7 @@ best_orders.throws.sample         # => "T20 T20 T20 T20 T20 T20 T19 BULL D17"
 ```
 
 Check also tests for more examples.
+
+The following table gives an overview over all scores which can be thrown with no more than three throws (all three dart finishes). The second column is the number of different minimal throws, and subsequent columns give examples of throws.
+
+![3-dart-finishes](README/three_dart_finishes.png)
