@@ -1,4 +1,4 @@
-# Darts
+# Darts [![CircleCI](https://circleci.com/gh/spren9er/darts.svg?style=svg)](https://circleci.com/gh/spren9er/darts)
 
 This is a small collection of Ruby classes for computing best dart finishes (in the sense of minimum number of throws). Calculations are done based on standard rules of darts (501, double out).
 
